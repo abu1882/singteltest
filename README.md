@@ -1,5 +1,9 @@
 ReadME.md
 
+Some details on the solution. 
+	1. For the sake of simplicity, I have removed all the packages from classes
+	2. All the source code were compiled using eclipse and unit test cases were run against the each solution before uploading
+
 Solution 1
 	In Solution 1, there are 3 interfaces defined with methods walk, sing and fly respectivly. Both Animal and Bird classes implement these three interfaces
 Solution 2
